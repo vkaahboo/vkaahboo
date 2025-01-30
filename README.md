@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/veronika-sanchez/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sanchezveka3@gmail.com)
 
-I am a graphic designer starting in the world of programming, I am a full stack web developer student and I will be updating my portfolio eventualy, I hope you like it. thks :heart:
+I am a graphic designer starting in the world of programming, I am a web developer student and I will be updating my portfolio eventualy, I hope you like it. thks :heart:
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
